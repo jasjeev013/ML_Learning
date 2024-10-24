@@ -6,4 +6,10 @@
 
 ## ------------------  Section 2 ----------------------
 
+1. Different ways of creating Virtual Environments
+2. Syntax & Semantics in Python
+3. Variables, Data Types, Operators in Python
+
+## ------------------ Section 3 -----------------------
+
 1. 
