@@ -12,4 +12,10 @@
 
 ## ------------------ Section 3 -----------------------
 
-1. 
+1. Conditional Statements, Loops
+
+## ------------------ Section 4 -----------------------
+
+1. Lists & its comprehension 
+2. Tuples & Sets
+3. Dictionaries
