@@ -19,3 +19,18 @@
 1. Lists & its comprehension 
 2. Tuples & Sets
 3. Dictionaries
+
+## ------------------ Section 5 -----------------------
+
+1. Functions & its different Types
+2. Lambda Functions
+3. Map & Filter function
+
+## ------------------- Section 6 ----------------------
+
+1. Excercise on Functions
+
+## ------------------ Section 7 -----------------------
+
+1. Excercise on Inbuilt Data Structures
+
