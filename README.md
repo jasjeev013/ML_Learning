@@ -34,3 +34,20 @@
 
 1. Excercise on Inbuilt Data Structures
 
+## ----------------- Section 8 ------------------------
+
+1. Importing Moduules , Creating Custom packages
+2. Standard Library Overview
+
+## ---------------- Section 9 -------------------------
+
+1. File Operation with different Modes
+2. Working with File Paths
+
+## ---------------- Section 10 ------------------------
+
+1. Exception Handling using try, except, catch, else, finally
+
+## ----------------- Section 11 -----------------------
+
+
