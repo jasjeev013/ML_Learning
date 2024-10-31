@@ -50,4 +50,16 @@
 
 ## ----------------- Section 11 -----------------------
 
+1. Classes & Objects Explantation
+2. 4 Principals Inheritance, Polymorphism, Encapsulation, Abstraction
+3. Magic Methods & Operator Overloading
+4. Custom Exception Handling
+
+## ---------------- Section 12 -----------------------
+
+1. Iterators & Generators
+2. Function Copy, Closures & Decorators
+
+## ---------------- Section 13 -----------------------
+
 
