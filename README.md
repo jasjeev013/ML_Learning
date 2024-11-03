@@ -65,4 +65,6 @@
 1. Learning Data Analysis in Numpy
 2. Pandas DataFrame & Series
 3. Different Operation , Aggregation, Joining, Functions , Lambda functions of Data Manupilation with Pandas & Numpy
-4. 
+4. Reading Data from different sources of websites, html pages, csv, xlsx & etc
+5. Working with Matpotlib making graphs , charts & analysizing different data sets using graphs
+6.
