@@ -67,4 +67,14 @@
 3. Different Operation , Aggregation, Joining, Functions , Lambda functions of Data Manupilation with Pandas & Numpy
 4. Reading Data from different sources of websites, html pages, csv, xlsx & etc
 5. Working with Matpotlib making graphs , charts & analysizing different data sets using graphs
-6.
+6. Data Visualization with Seaborn
+
+## --------------- Section 14 -----------------------
+
+1. Crud Operations with SQLite3
+
+## --------------- Section 15 -----------------------
+
+1. Logging Implementation with its different types
+2. Logging with multiple loggers
+3. Logging in Real life example
