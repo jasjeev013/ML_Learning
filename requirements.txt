@@ -4,6 +4,7 @@ pandas
 lxml
 html5lib
 beautifulsoup4
+bs4
 requests
 openpyxl
 matplotlib

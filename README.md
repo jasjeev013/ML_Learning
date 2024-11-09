@@ -78,3 +78,19 @@
 1. Logging Implementation with its different types
 2. Logging with multiple loggers
 3. Logging in Real life example
+
+## -------------- Section 16 ------------------------
+
+1. Process , Threads & Threading
+2. Multithreading & Thread Pool
+3. Multiprocessing & Process Pool
+4. Real life examples - Webscraping
+
+## -------------- Section 17 -------------------------
+
+1. Memory Managment, Allocation & Deallocation of Garbage Collection
+
+## -------------- Section 18 -------------------------
+
+1. 
+
