@@ -92,5 +92,8 @@
 
 ## -------------- Section 18 -------------------------
 
-1. 
+1. Basic of Flask with WSGI & Jinja 2
+2. Basic Annotations , Rendering Html Files
+3. Defferent Types of Requests - GET, POST & etc.
+4. 
 
