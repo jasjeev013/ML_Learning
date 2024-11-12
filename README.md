@@ -95,5 +95,10 @@
 1. Basic of Flask with WSGI & Jinja 2
 2. Basic Annotations , Rendering Html Files
 3. Defferent Types of Requests - GET, POST & etc.
-4. 
+4. Learning about Jinja 2 template , dynamic URLs & etc.
+5. Working with HTMLs, Redirecting URLs, Sendingg Data Across frontend and flask
+6. Creating a todo app for CRUD operations practice
 
+## -------------- Section 19 --------------------------
+
+1.
