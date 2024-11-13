@@ -101,4 +101,11 @@
 
 ## -------------- Section 19 --------------------------
 
-1.
+1. Learning about streamlit and making different charts & dataframes
+2. A Real Life ML model usecase on Streamlit
+
+## --------------- Section 20 --------------------------
+
+1. Statistics & Its basics , usecases of it & real life using
+2. Different types of stats , Measure of Central Tendency , Measure of Dispersion
+3.
