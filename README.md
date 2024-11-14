@@ -108,4 +108,11 @@
 
 1. Statistics & Its basics , usecases of it & real life using
 2. Different types of stats , Measure of Central Tendency , Measure of Dispersion
-3.
+3. Variable , DIfferent types of it  Discrete ,Continous, Categorical --- Random Variable - Discrete, Continous
+4. Covvariance & Correaltion - Pearson , spearman
+
+## --------------- Section 21 --------------------------
+
+1. Probability, Mutual Exclusive events , Addition Rule
+2. Multiplication Rule - Independent & Dependent events , Baye's Theorem, Conditional Probability
+
