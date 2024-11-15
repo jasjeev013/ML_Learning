@@ -116,3 +116,8 @@
 1. Probability, Mutual Exclusive events , Addition Rule
 2. Multiplication Rule - Independent & Dependent events , Baye's Theorem, Conditional Probability
 
+## --------------- Section 22 --------------------------
+
+1. PDF,PMF & CDF - Discrete & Countinous Random Variable
+2. Types of Probability Distributions: Bernouli, Binomial, 
+ 
