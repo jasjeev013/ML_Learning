@@ -119,5 +119,10 @@
 ## --------------- Section 22 --------------------------
 
 1. PDF,PMF & CDF - Discrete & Countinous Random Variable
-2. Types of Probability Distributions: Bernouli, Binomial, 
+2. Types of Probability Distributions: Bernouli, Binomial, Normal/Gussian, Standard Normal, Uniform, Lognormal, power law, pareto
+3. Central Limit Theorem, Estimates
+
+## -------------- Section 23 ---------------------------
+
+1. 
  
