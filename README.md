@@ -124,5 +124,9 @@
 
 ## -------------- Section 23 ---------------------------
 
-1. 
+1. Hypothesis Tessting - Null, Alternative
+2. Types of Hypothesis - One Tailed, Two Tailed
+3. Z Test, T Test, 
+4. Type 1 & Type 2 Error
+5. Baye's Theorem
  
