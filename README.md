@@ -135,4 +135,7 @@
 ## -------------- Section 24 ----------------------------
 
 1. Handling Missing Values
+2. Handling Imbalance Dataset - Upsampling & Downsampling
+3. SMOT Technique - For OverSampling
+4. 
  
