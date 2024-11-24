@@ -137,5 +137,11 @@
 1. Handling Missing Values
 2. Handling Imbalance Dataset - Upsampling & Downsampling
 3. SMOT Technique - For OverSampling
-4. 
+4. 5 Number Summary & Box Plot
+5. Data Encoding --- Nominal/OHE, Label, Ordinal & Target Guided Ordinal Encoding
+
+## ---------------- Section 25 -----------------------
+
+1. EDA - Exploratory Data Analysis of Red Wine Dataset
+
  
