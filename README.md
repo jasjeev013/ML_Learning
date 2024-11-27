@@ -143,5 +143,6 @@
 ## ---------------- Section 25 -----------------------
 
 1. EDA - Exploratory Data Analysis of Red Wine Dataset
-
+2. Data Cleaning for Flight Price Tracker with Categorical and object data
+3. 
  
