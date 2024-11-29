@@ -144,5 +144,20 @@
 
 1. EDA - Exploratory Data Analysis of Red Wine Dataset
 2. Data Cleaning for Flight Price Tracker with Categorical and object data
-3. 
+3. PlayStore Data - Cleaning, Doing analysis and taking info using charts of Top 10 , Most used & etc.
+
+## ----------------- Section 26 ----------------------------
+
+1. Understanding difference in AI, ML, DL, DS & topics below them
+2. ML Techniques, Equation of Line, 3d & Hyperplane
+3. Types of ML - Supervised, Unsupervised, Semi Supervised, Reinforcement Learning
+4. Distance of point from plane
+5. Types of Regression - Linear, Logistic, Ridge, Lasso, Elastic Net, Polynomial,
+6. Types of Classification - KNN, Decision Tree, Random Forest, SVM, Naive Bay
+7. Types of Clustering - KMeans, Hierarchical, DBSCAN, KMedoids
+8. Instance based vs Model based Learning
+
+## ----------------- Section 27 ------------------------------
+
+1.
  
