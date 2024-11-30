@@ -159,5 +159,7 @@
 
 ## ----------------- Section 27 ------------------------------
 
-1.
+1. Simple Linear Regression, Cost Function, Convergence Algo, Gradient Descent 
+2. Multiple Regression, Performance Metrics - R Squared & Adjusted R Squared
+3. MSE, MAE, RMSE 
  
