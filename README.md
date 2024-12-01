@@ -159,7 +159,9 @@
 
 ## ----------------- Section 27 ------------------------------
 
-1. Simple Linear Regression, Cost Function, Convergence Algo, Gradient Descent 
+1. Simple Linear Regression using Gradient Descent , Cost Function, Convergence Algo, Gradient Descent 
 2. Multiple Regression, Performance Metrics - R Squared & Adjusted R Squared
-3. MSE, MAE, RMSE 
- 
+3. MSE, MAE, RMSE, R Squared & Adjusted R Squared -- Performance Metrics
+4. Training, Test & Validation Dataset -- Overfitting & Underfitting -- Low Bias , High Bais, Low Variance , High Variance
+5. Linear Regression using OLS - Ordinal Least Square
+6.  
