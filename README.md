@@ -164,4 +164,12 @@
 3. MSE, MAE, RMSE, R Squared & Adjusted R Squared -- Performance Metrics
 4. Training, Test & Validation Dataset -- Overfitting & Underfitting -- Low Bias , High Bais, Low Variance , High Variance
 5. Linear Regression using OLS - Ordinal Least Square
-6.  
+6. Practical Implementation of Linear Regression - division of independent & dependent params,  Division of train test, fit transforms, regression , then predicition, & printing performance metrics. Using OLS Model to predict
+7. Practical Implementation of Multiple Regression - Division into independent and dependent, Division of train , test, Fit transform & transoform, Regress, Cross Validation , Prediction & Performance Metrics. Using Alternative OLS Model to verify with regression model
+8. Checking of model perfection using residuals, plt.scatter(y_test,y_pred) 
+9. Polynomial Regression - Same steps as till regression , Add polynomial feature with degree and training regression model on it
+10. Pipelining Concept in Polynomial Regressionchecking which degree best fits the data
+
+## ------------------- Section 28 -----------------------------------
+
+1. 
