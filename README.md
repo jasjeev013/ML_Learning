@@ -174,4 +174,9 @@
 
 1. Ridge Regression - Reducing Overfitting, Lasso Regression - Reducing Unwanted Features, ElasticNet Regression - Combination of both Ridge & Lasso
 2. Types of Cross Validation: LOOCV, Leave P out CV, K Fold CV, Stratified K Fold CV, Time Series CV
-3. Taking ALgerian Forest Fire Data Set: Data Cleaning, EDA
+3. Taking ALgerian Forest Fire Data Set: Data Cleaning, EDA , Feature Selection 
+4. Continuation with Training Model using: Linear, Lasso, Ridge & ElasticNet Regression with Cross Validation of each for hyperparameter tuning
+
+## --------------------- Section 29 -----------------------------------------
+
+1. 
