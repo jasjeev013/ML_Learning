@@ -179,4 +179,5 @@
 
 ## --------------------- Section 29 -----------------------------------------
 
-1. 
+1. SImple Regression - Height Weight Dataset -- Fully Making of Model
+2. Multiple Regression - California Housing
