@@ -181,3 +181,7 @@
 
 1. SImple Regression - Height Weight Dataset -- Fully Making of Model
 2. Multiple Regression - California Housing
+3. Revesion of Making Algerian Forest Fire Dataset
+4. Converting the Model into pickle file
+5. Implementation of Project with Flask & Predicting Value
+6. 
