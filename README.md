@@ -184,4 +184,10 @@
 3. Revesion of Making Algerian Forest Fire Dataset
 4. Converting the Model into pickle file
 5. Implementation of Project with Flask & Predicting Value
-6. 
+6. Deployment of Project using ElasticBeanStalk and CodePipeline
+
+## ----------------------- Section 30 -----------------------------------------
+
+1. Logistic Regression - Used for classification problems
+2. Cost Function of it - COnvergence Algorithm - Convex Curve
+3. Performance Metrics - Accuracy - Precision - Confusion Matrix - F- Beta Score- Harmonic Mean
