@@ -191,3 +191,6 @@
 1. Logistic Regression - Used for classification problems
 2. Cost Function of it - COnvergence Algorithm - Convex Curve
 3. Performance Metrics - Accuracy - Precision - Confusion Matrix - F- Beta Score- Harmonic Mean
+4. Logistic Regression OVR (One versus Rest) - Multiple Classification
+5. Implement Logistic Regression with Performance metrics - Hyperparameter Tuning & Cross Validation - GridSearchCV - StratifiedKFold - Different parameters Testing 
+6. 
