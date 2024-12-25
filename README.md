@@ -192,5 +192,6 @@
 2. Cost Function of it - COnvergence Algorithm - Convex Curve
 3. Performance Metrics - Accuracy - Precision - Confusion Matrix - F- Beta Score- Harmonic Mean
 4. Logistic Regression OVR (One versus Rest) - Multiple Classification
-5. Implement Logistic Regression with Performance metrics - Hyperparameter Tuning & Cross Validation - GridSearchCV - StratifiedKFold - Different parameters Testing 
-6. 
+5. Implement Logistic Regression with Performance metrics - Hyperparameter Tuning & Cross Validation - 1. GridSearchCV - StratifiedKFold - Different parameters Testing - 2. RandomizedSearchCV
+6. Implementing  Multi CLass Classification using LOgistic Regression -- Implementing Unbalanced Datasets using weights
+7. Finding Threshold using ROC & ROC_AUC Curve
