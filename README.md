@@ -195,3 +195,10 @@
 5. Implement Logistic Regression with Performance metrics - Hyperparameter Tuning & Cross Validation - 1. GridSearchCV - StratifiedKFold - Different parameters Testing - 2. RandomizedSearchCV
 6. Implementing  Multi CLass Classification using LOgistic Regression -- Implementing Unbalanced Datasets using weights
 7. Finding Threshold using ROC & ROC_AUC Curve
+
+## ------------------------ Section 31 ----------------------------------------
+
+1. Support Vector Machines - SVC - SVR - Hingle Loss - Cost Function - Soft & Hard Margin
+2. Svm Kernels - Types of Kernels - Linear, Polynomial, RBF, Sigmoid
+3. Support Vector Classifiers Implementation -- Finding best params using GirdSearchCV - 3D Visualiation of Polynomial Kernel
+4. Support Vector Regressor Implementation -- Finding best params using GridSearchCV
