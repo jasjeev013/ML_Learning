@@ -202,3 +202,5 @@
 2. Svm Kernels - Types of Kernels - Linear, Polynomial, RBF, Sigmoid
 3. Support Vector Classifiers Implementation -- Finding best params using GirdSearchCV - 3D Visualiation of Polynomial Kernel
 4. Support Vector Regressor Implementation -- Finding best params using GridSearchCV
+
+## ----------------------- Section 32 ------------------------------------------
