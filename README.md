@@ -204,3 +204,7 @@
 4. Support Vector Regressor Implementation -- Finding best params using GridSearchCV
 
 ## ----------------------- Section 32 ------------------------------------------
+
+1. Dependent & Independent Events - Conditional Probability - Baye's Theorem - Naive Bayes Algorithm
+2. Variants of Naive Bayes - Bernouli, Multinomial, Gussian
+3. 
