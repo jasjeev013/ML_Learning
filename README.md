@@ -207,4 +207,17 @@
 
 1. Dependent & Independent Events - Conditional Probability - Baye's Theorem - Naive Bayes Algorithm
 2. Variants of Naive Bayes - Bernouli, Multinomial, Gussian
-3. 
+3. Implementation of Gussian Naive bayes Algorithm
+
+## ------------------------ Section 33 -----------------------------------------
+
+1. KNN (K Nearest Neighbour) - used for regression & classification problem both - Manhattan & Eucleidan Distance
+2. Variants of KNN - KD Tree, Ball Tree
+3. Implementation of K Nearest Classifier( from Classification Problem) & Regressor(For Regression Problem)
+
+## -------------------------- Section 34 --------------------------------------- 
+
+1. Decesion Tree Classifier - Types: ID3, CART 
+2. Purity Checking Techniques: Entropy, Gini Impurity - Information Gain
+3. Post Pruning & Pre Pruning
+4. Decesion Tree Regressor -
