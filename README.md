@@ -220,4 +220,7 @@
 1. Decesion Tree Classifier - Types: ID3, CART 
 2. Purity Checking Techniques: Entropy, Gini Impurity - Information Gain
 3. Post Pruning & Pre Pruning
-4. Decesion Tree Regressor -
+4. Decesion Tree Regressor - Variance Reduction - GridSearchCV
+5. Diabetes Model Testing - GridSearch & Hyperparamter Tuninig
+
+## -------------------------- Section 35 ----------------------------------------
