@@ -224,3 +224,7 @@
 5. Diabetes Model Testing - GridSearch & Hyperparamter Tuninig
 
 ## -------------------------- Section 35 ----------------------------------------
+
+1. Bagging & Boosting Ensemble - COncept of Bagging - Boosting & Its Types: Adaboost, Xgboost,Gradient Boost, Extreme Gradient Boost
+2. Random Forest Classification & Regression Algorithm (Bagging Technique)
+3. Holiday Package predicition - Implementation,  
