@@ -227,4 +227,5 @@
 
 1. Bagging & Boosting Ensemble - COncept of Bagging - Boosting & Its Types: Adaboost, Xgboost,Gradient Boost, Extreme Gradient Boost
 2. Random Forest Classification & Regression Algorithm (Bagging Technique)
-3. Holiday Package predicition - Implementation,  
+3. Holiday Package predicition - Implementation, Data Cleaning, Feature Engineering, Model Training , Hyperparameter Tuning Using RandomSearch Size
+4. Used Car predicition - Implementation, Data Cleaning 
