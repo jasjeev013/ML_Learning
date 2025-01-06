@@ -232,4 +232,8 @@
 
 ## -------------------------- Section 36 -----------------------------------------
 
-1. AdaBoost ML Algorithm - Decision Tree Stump - Weights,Bins & Normalization - 
+1. AdaBoost ML Algorithm - Decision Tree Stump - Weights,Bins & Normalization - Implementation
+2. Applying on Holiday Package Predicition & Used Car Predicition ( As done before)
+
+## -------------------------- Section 37 -----------------------------------------
+
