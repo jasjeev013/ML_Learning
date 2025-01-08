@@ -16,3 +16,4 @@ imblearn
 statsmodels
 plotly
 nbformat
+xgboost

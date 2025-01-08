@@ -116,13 +116,13 @@
 1. Probability, Mutual Exclusive events , Addition Rule
 2. Multiplication Rule - Independent & Dependent events , Baye's Theorem, Conditional Probability
 
-## --------------- Section 22 --------------------------
+## -------------------------- Section 22 --------------------------
 
 1. PDF,PMF & CDF - Discrete & Countinous Random Variable
 2. Types of Probability Distributions: Bernouli, Binomial, Normal/Gussian, Standard Normal, Uniform, Lognormal, power law, pareto
 3. Central Limit Theorem, Estimates
 
-## -------------- Section 23 ---------------------------
+## -------------------------- Section 23 --------------------------
 
 1. Hypothesis Tessting - Null, Alternative
 2. Types of Hypothesis - One Tailed, Two Tailed
@@ -132,7 +132,7 @@
 6. Chi Quare Test, Goodness of Fit
 7. Annova Test :- Assumptions , Types, Partioning of Variance
 
-## -------------- Section 24 ----------------------------
+## -------------------------- Section 24 --------------------------
 
 1. Handling Missing Values
 2. Handling Imbalance Dataset - Upsampling & Downsampling
@@ -140,13 +140,13 @@
 4. 5 Number Summary & Box Plot
 5. Data Encoding --- Nominal/OHE, Label, Ordinal & Target Guided Ordinal Encoding
 
-## ---------------- Section 25 -----------------------
+## -------------------------- Section 25 --------------------------
 
 1. EDA - Exploratory Data Analysis of Red Wine Dataset
 2. Data Cleaning for Flight Price Tracker with Categorical and object data
 3. PlayStore Data - Cleaning, Doing analysis and taking info using charts of Top 10 , Most used & etc.
 
-## ----------------- Section 26 ----------------------------
+## -------------------------- Section 26 --------------------------
 
 1. Understanding difference in AI, ML, DL, DS & topics below them
 2. ML Techniques, Equation of Line, 3d & Hyperplane
@@ -157,7 +157,7 @@
 7. Types of Clustering - KMeans, Hierarchical, DBSCAN, KMedoids
 8. Instance based vs Model based Learning
 
-## ----------------- Section 27 ------------------------------
+## -------------------------- Section 27 --------------------------
 
 1. Simple Linear Regression using Gradient Descent , Cost Function, Convergence Algo, Gradient Descent 
 2. Multiple Regression, Performance Metrics - R Squared & Adjusted R Squared
@@ -170,14 +170,14 @@
 9. Polynomial Regression - Same steps as till regression , Add polynomial feature with degree and training regression model on it
 10. Pipelining Concept in Polynomial Regressionchecking which degree best fits the data
 
-## ------------------- Section 28 -----------------------------------
+## -------------------------- Section 28 --------------------------
 
 1. Ridge Regression - Reducing Overfitting, Lasso Regression - Reducing Unwanted Features, ElasticNet Regression - Combination of both Ridge & Lasso
 2. Types of Cross Validation: LOOCV, Leave P out CV, K Fold CV, Stratified K Fold CV, Time Series CV
 3. Taking ALgerian Forest Fire Data Set: Data Cleaning, EDA , Feature Selection 
 4. Continuation with Training Model using: Linear, Lasso, Ridge & ElasticNet Regression with Cross Validation of each for hyperparameter tuning
 
-## --------------------- Section 29 -----------------------------------------
+## -------------------------- Section 29 --------------------------
 
 1. SImple Regression - Height Weight Dataset -- Fully Making of Model
 2. Multiple Regression - California Housing
@@ -186,7 +186,7 @@
 5. Implementation of Project with Flask & Predicting Value
 6. Deployment of Project using ElasticBeanStalk and CodePipeline
 
-## ----------------------- Section 30 -----------------------------------------
+## -------------------------- Section 30 --------------------------
 
 1. Logistic Regression - Used for classification problems
 2. Cost Function of it - COnvergence Algorithm - Convex Curve
@@ -196,26 +196,26 @@
 6. Implementing  Multi CLass Classification using LOgistic Regression -- Implementing Unbalanced Datasets using weights
 7. Finding Threshold using ROC & ROC_AUC Curve
 
-## ------------------------ Section 31 ----------------------------------------
+## -------------------------- Section 31 --------------------------
 
 1. Support Vector Machines - SVC - SVR - Hingle Loss - Cost Function - Soft & Hard Margin
 2. Svm Kernels - Types of Kernels - Linear, Polynomial, RBF, Sigmoid
 3. Support Vector Classifiers Implementation -- Finding best params using GirdSearchCV - 3D Visualiation of Polynomial Kernel
 4. Support Vector Regressor Implementation -- Finding best params using GridSearchCV
 
-## ----------------------- Section 32 ------------------------------------------
+## -------------------------- Section 32 --------------------------
 
 1. Dependent & Independent Events - Conditional Probability - Baye's Theorem - Naive Bayes Algorithm
 2. Variants of Naive Bayes - Bernouli, Multinomial, Gussian
 3. Implementation of Gussian Naive bayes Algorithm
 
-## ------------------------ Section 33 -----------------------------------------
+## -------------------------- Section 33 --------------------------
 
 1. KNN (K Nearest Neighbour) - used for regression & classification problem both - Manhattan & Eucleidan Distance
 2. Variants of KNN - KD Tree, Ball Tree
 3. Implementation of K Nearest Classifier( from Classification Problem) & Regressor(For Regression Problem)
 
-## -------------------------- Section 34 --------------------------------------- 
+## -------------------------- Section 34 --------------------------
 
 1. Decesion Tree Classifier - Types: ID3, CART 
 2. Purity Checking Techniques: Entropy, Gini Impurity - Information Gain
@@ -223,17 +223,31 @@
 4. Decesion Tree Regressor - Variance Reduction - GridSearchCV
 5. Diabetes Model Testing - GridSearch & Hyperparamter Tuninig
 
-## -------------------------- Section 35 ----------------------------------------
+## -------------------------- Section 35 --------------------------
 
 1. Bagging(Base Learners) & Boosting (Weak learners) Ensemble - COncept of Bagging - Boosting & Its Types: Adaboost, Xgboost,Gradient Boost, Extreme Gradient Boost - 
 2. Random Forest Classification & Regression Algorithm (Bagging Techniques)
 3. Holiday Package predicition - Implementation, Data Cleaning, Feature Engineering, Model Training , Hyperparameter Tuning Using RandomSearch Size
 4. Used Car predicition - Implementation, Data Cleaning, Train Test Split, Column Transformer, OneHotEncoding and Standard Scalar, Traning Various Models Linear Regression,KNN , Random Forest, Lasoo, Ridge, Decesion Tree, Then Hyperparameter TUning of Best Models using Random Search CV , Finding Final Accuracy using the final Best params.
 
-## -------------------------- Section 36 -----------------------------------------
+##-------------------------- Section 36 --------------------------
 
 1. AdaBoost ML Algorithm - Decision Tree Stump - Weights,Bins & Normalization - Implementation
 2. Applying on Holiday Package Predicition & Used Car Predicition ( As done before)
 
-## -------------------------- Section 37 -----------------------------------------
+## -------------------------- Section 37 --------------------------
 
+1. Gradient Boost Classifier & Regressor - Applying smae prev Predicition using these & finding performance metrics 
+
+## -------------------------- Section 38 --------------------------
+
+1. XgBoost Classifier & Regressor - Implementation & Intuition
+2. Applying for predicition on previous models
+
+## -------------------------- Section 39 --------------------------
+
+1. Unsupervised Learning basic Introduction - Types of Algos - K Means - Heirarchial - DB Scan - Silhoute
+
+## -------------------------- Section 40 --------------------------
+
+1. 
