@@ -250,4 +250,6 @@
 
 ## -------------------------- Section 40 --------------------------
 
-1. 
+1. Curse of Dimensionality - Ways to Remove it - Feature Selection - Principle Component Analysis(PCA) OR Dimensionality Reduction
+2. Feature Selection & Extraction - PCA Geometric Intuition - Mathematic Intuition - Eigen Decomposition - Covariance Matrix
+3. PCA Implementation
