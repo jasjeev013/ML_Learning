@@ -253,3 +253,13 @@
 1. Curse of Dimensionality - Ways to Remove it - Feature Selection - Principle Component Analysis(PCA) OR Dimensionality Reduction
 2. Feature Selection & Extraction - PCA Geometric Intuition - Mathematic Intuition - Eigen Decomposition - Covariance Matrix
 3. PCA Implementation
+
+## -------------------------- Section 41 --------------------------
+
+1. K Means CLustering Technique - Intution & How it Works
+2. HOw to find K - Elbow Graph - Random Intialization Trap
+3. K Means Clustering Implementation - Validating using Kneelocator ,Silhoutee Scoring    
+
+## -------------------------- Section 42 --------------------------
+
+1. 
