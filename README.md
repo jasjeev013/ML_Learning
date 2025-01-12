@@ -262,4 +262,13 @@
 
 ## -------------------------- Section 42 --------------------------
 
-1. 
+1. Hierarichal Clustering - Approaches - Agglomarative, Divisive - Dendogram
+2. Agglomarative Implementation - Comaprion of KMeans with Hierarichal Clustering
+
+## -------------------------- Section 43 --------------------------
+
+1. DB Scan Clustering - Adv & Disadv over others - Implementation 
+
+## -------------------------- Section 44 --------------------------
+
+1. Silhouette Clustering - Intution & Working
