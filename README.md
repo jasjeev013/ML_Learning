@@ -271,4 +271,13 @@
 
 ## -------------------------- Section 44 --------------------------
 
-1. Silhouette Clustering - Intution & Working
+1. Silhouette Clustering - Intution & Working 
+
+## -------------------------- Section 45 --------------------------
+
+1. Anomaly Detection - To detect Outliers - Isolation Forest - Anomaly Detection using DB Scan
+2. Local Outliers & Global Outliers - Local Outlier Factor
+
+## -------------------------- Section 46 --------------------------
+
+1. Docker Basics
