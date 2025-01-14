@@ -280,4 +280,5 @@
 
 ## -------------------------- Section 46 --------------------------
 
-1. Docker Basics
+1. Docker Basics - Containers - Docker Image vs Virtual Machine - Virtualization
+2. Installation - Basic Commands - Creating Images - Publish your Image - 
