@@ -281,4 +281,11 @@
 ## -------------------------- Section 46 --------------------------
 
 1. Docker Basics - Containers - Docker Image vs Virtual Machine - Virtualization
-2. Installation - Basic Commands - Creating Images - Publish your Image - 
+2. Installation - Basic Commands - Creating Images - Publish your Image - Composing
+
+## -------------------------- Section 47 --------------------------
+
+1. Git & Github Basics - Installation - Commands for initializating, pushing pulling, tracking - Cloning Repo
+2. Branch & Merging- Commiting - Merging branches conflict
+
+## -------------------------- Section 48 --------------------------
