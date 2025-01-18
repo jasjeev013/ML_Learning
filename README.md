@@ -290,4 +290,6 @@
 
 ## -------------------------- Section 48 --------------------------
 
-1. End to End Model Building 
+1. End to End Model Building - Stating with Setup.py
+2. Building Project strucutre - Logging - Exception handling - Components
+3. 
