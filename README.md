@@ -293,4 +293,4 @@
 1. End to End Model Building - Stating with Setup.py
 2. Building Project strucutre - Logging - Exception handling - Components
 3. Started with Data set - Feature Engineering &  EDA - Model Training
-4. 
+4. Added Data Ingestion with Train Test Split
