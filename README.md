@@ -296,5 +296,5 @@
 4. Added Data Ingestion with Train Test Split
 5. Did Data Transformation - including OneHot Encoder , Standar Scalar, Creating Proccesor Pickle File
 6. Model Training - Using Different Models, FInding Best Model 
-7. 
+7. Hyper Paramter Tuning Using GridSearchCV
 
