@@ -295,4 +295,6 @@
 3. Started with Data set - Feature Engineering &  EDA - Model Training
 4. Added Data Ingestion with Train Test Split
 5. Did Data Transformation - including OneHot Encoder , Standar Scalar, Creating Proccesor Pickle File
+6. Model Training - Using Different Models, FInding Best Model 
+7. 
 
