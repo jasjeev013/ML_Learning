@@ -297,4 +297,5 @@
 5. Did Data Transformation - including OneHot Encoder , Standar Scalar, Creating Proccesor Pickle File
 6. Model Training - Using Different Models, FInding Best Model 
 7. Hyper Paramter Tuning Using GridSearchCV
+8. Creating Frontend from Flask for recieving data & predicting purpose
 
