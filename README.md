@@ -4,7 +4,7 @@
 2. Setting up the environment & Learning how to download packages
 3. Learning how py & ipynb file works
 
-## ------------------   Section 2  ------------------
+## ------------------  Section 2  ------------------
 
 1. Different ways of creating Virtual Environments
 2. Syntax & Semantics in Python
@@ -298,4 +298,6 @@
 6. Model Training - Using Different Models, FInding Best Model 
 7. Hyper Paramter Tuning Using GridSearchCV
 8. Creating Frontend from Flask for recieving data & predicting purpose
+9. Deployed Application using the ElasticBeanStalk & Code pipeline built with Github(via OAuth)
+
 
