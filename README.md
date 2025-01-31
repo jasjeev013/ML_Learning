@@ -299,5 +299,9 @@
 7. Hyper Paramter Tuning Using GridSearchCV
 8. Creating Frontend from Flask for recieving data & predicting purpose
 9. Deployed Application using the ElasticBeanStalk & Code pipeline built with Github(via OAuth)
+10 Deployement Using EC2 Instance & Docker Image in AWS
+11. Deployment through Azure instance & Docker COntainer in Azure
+
+
 
 
