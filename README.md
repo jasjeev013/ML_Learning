@@ -302,6 +302,10 @@
 10 Deployement Using EC2 Instance & Docker Image in AWS
 11. Deployment through Azure instance & Docker COntainer in Azure
 
+## ------------------ Section 49 ------------------
 
+1. Started with the Network Security Project - Made directories & files
+2.Created the exception handling, logging & Setup.py with requirements.txt
+3. Added the ETL Pipeline with Pushing data.csv into MongoDB
 
 
