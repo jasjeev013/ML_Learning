@@ -307,5 +307,8 @@
 1. Started with the Network Security Project - Made directories & files
 2.Created the exception handling, logging & Setup.py with requirements.txt
 3. Added the ETL Pipeline with Pushing data.csv into MongoDB
+4. Data Ingestion architecture with all App COnstants decleration
+5. Training & Test data seperation with Data Ingestion Component
+6. 
 
 
