@@ -309,6 +309,6 @@
 3. Added the ETL Pipeline with Pushing data.csv into MongoDB
 4. Data Ingestion architecture with all App COnstants decleration
 5. Training & Test data seperation with Data Ingestion Component
-6. 
+6. Validating Datasets & Making Drift Report for the model
 
 
