@@ -312,5 +312,9 @@
 6. Validating Datasets & Making Drift Report for the model
 7. Data transofrmation Implementation
 8. Model training and evaluating with hyperparameter tuning
+9. Model experimantation with the MLFlow
+10. Connecting the Dagshub with project to incorporate MLFlow on Cloud
+11. Implementation of Model Pusher
+
 
 
