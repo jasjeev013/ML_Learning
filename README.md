@@ -316,7 +316,10 @@
 10. Connecting the Dagshub with project to incorporate MLFlow on Cloud
 11. Implementation of Model Pusher
 12. Impemented Model Training & Batch Predicition Pipeline
-
+13. Uploading Artifacts & Model.pkl in AWS S3 bucket
+14. Makeing DOcker Image and Workflows in main.yml
+15. Added Github Actions, Workflows with the AWS ECR instance
+16. Final Deployment to EC2 Instance
 
 
 
