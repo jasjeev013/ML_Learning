@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jasje/Desktop/ML/mlruns/0/e63a7ea54dab4f9b980e9f5b9eba273b/artifacts
+end_time: 1739692204987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e63a7ea54dab4f9b980e9f5b9eba273b
+run_name: auspicious-whale-322
+run_uuid: e63a7ea54dab4f9b980e9f5b9eba273b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739692191483
+status: 3
+tags: []
+user_id: jasjeev

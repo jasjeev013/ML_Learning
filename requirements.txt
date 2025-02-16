@@ -18,3 +18,4 @@ plotly
 nbformat
 xgboost
 kneed
+mlflow

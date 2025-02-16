@@ -321,5 +321,10 @@
 15. Added Github Actions, Workflows with the AWS ECR instance
 16. Final Deployment to EC2 Instance
 
+## ------------------ Section 50 ------------------
 
+1. MLFlow Implementation - Exploring stats , ui & comparing versions
+2. Introduction to Dagshub - Connecting Repo with it
+3. Integrating the MLFlow with dagshub
+4. DVC - Data Versioning Control - Introduction & Implementation
 
