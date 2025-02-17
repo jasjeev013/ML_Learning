@@ -327,4 +327,11 @@
 2. Introduction to Dagshub - Connecting Repo with it
 3. Integrating the MLFlow with dagshub
 4. DVC - Data Versioning Control - Introduction & Implementation
+5. Intoduction to BentoML - Implementation of Creating BentoML Directory, Swagger Integration & Pre madeup APIs
+6. packaging , Building & Deploying using BentoML yaml file
+
+## ------------------ Section 51 ------------------
+
+1. NLP - Natural Language Processiong - basics, RoadMap
+2. Tokenization - Corpus, Documents, Vocabulary, Words
 
