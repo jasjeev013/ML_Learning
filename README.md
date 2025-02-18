@@ -334,4 +334,9 @@
 
 1. NLP - Natural Language Processiong - basics, RoadMap
 2. Tokenization - Corpus, Documents, Vocabulary, Words
+3. Implemntation of Tokenization with nltk
+4. Performing Stemming using different Stemmers
+5. Learning Lemmetization Technique - Comparison between Lemmetization vs Stemming
+6. Text Processing using Stopwords and using Lemmitizer & Temmers with it
+7. 
 

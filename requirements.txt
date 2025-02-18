@@ -19,3 +19,4 @@ nbformat
 xgboost
 kneed
 mlflow
+nltk
