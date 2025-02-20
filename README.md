@@ -340,6 +340,9 @@
 6. Text Processing using Stopwords and using Lemmitizer & Temmers with it
 7. Parts of Speech Tagging, Named Entity Recogintion
 8. Types of NLP methods: Ohe Hot Encoding Intution & Theory
-9. bag of Words Intuition & Implementation
-10. 
+9. Bag of Words Intuition & Implementation
+10. N grams Intution & Implementation
+11. TF - IDF : Introduction, Implementation
+12. Word Embeddings: Count or Freq: OHE,BOW,TF-IDF , Deep Learning Training Model: Word2Vec
+13. Word2Vec: Introduction 
 
