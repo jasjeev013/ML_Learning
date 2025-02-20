@@ -338,5 +338,8 @@
 4. Performing Stemming using different Stemmers
 5. Learning Lemmetization Technique - Comparison between Lemmetization vs Stemming
 6. Text Processing using Stopwords and using Lemmitizer & Temmers with it
-7. 
+7. Parts of Speech Tagging, Named Entity Recogintion
+8. Types of NLP methods: Ohe Hot Encoding Intution & Theory
+9. bag of Words Intuition & Implementation
+10. 
 
