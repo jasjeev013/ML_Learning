@@ -344,5 +344,7 @@
 10. N grams Intution & Implementation
 11. TF - IDF : Introduction, Implementation
 12. Word Embeddings: Count or Freq: OHE,BOW,TF-IDF , Deep Learning Training Model: Word2Vec
-13. Word2Vec: Introduction 
+13. Word2Vec: Introduction - Cosine Similarity - Types of Word2Vec: CBOW, SkipGram
+14. Spam & ham using Bow & TF-IDF
+15. 
 
