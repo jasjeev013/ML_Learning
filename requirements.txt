@@ -21,3 +21,5 @@ kneed
 mlflow
 nltk
 gensim
+tqdm
+tensorflow
