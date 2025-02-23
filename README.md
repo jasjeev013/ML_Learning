@@ -346,5 +346,11 @@
 12. Word Embeddings: Count or Freq: OHE,BOW,TF-IDF , Deep Learning Training Model: Word2Vec
 13. Word2Vec: Introduction - Cosine Similarity - Types of Word2Vec: CBOW, SkipGram
 14. Spam & ham using Bow & TF-IDF
-15. 
+15. Text Classification using Word2Vec & Avg Word2Vec
+16. Kindle Review Sentiment Analysis
 
+## ------------------ Section 52 ------------------
+
+1. Deep Learning Introduction - Necessary - Application - Types
+2. Perceptron - Basics - Sungle Layered, Multi Layered (ANN) - Adv & Disadv.
+3. Multi Layered Nueral Network OR ANN (Artifical N.N) - Basics
