@@ -353,4 +353,6 @@
 
 1. Deep Learning Introduction - Necessary - Application - Types
 2. Perceptron - Basics - Sungle Layered, Multi Layered (ANN) - Adv & Disadv.
-3. Multi Layered Nueral Network OR ANN (Artifical N.N) - Basics
+3. Multi Layered Nueral Network OR ANN (Artifical N.N) - Basics - Working - Layers - Activation Function
+4. Forward & Backward propogation - Loss function - Cost function - Weight Updation Formulae
+5. 
