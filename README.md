@@ -358,3 +358,6 @@
 5. Vanishing Gradient Problem - Sigmoid Activation function 
 6. Tanh & Relu Activation Function - Leaky & Parametric Relu Activation Function
 7. ELU & Softmax Activation Function
+8. Lost Function vs Cost Function - All Loss Functions 
+9. Different Types of Optimizers - Gradient Descent, SGD, Mini Bathc SGD, SGD With Momentum, Adagrad, Adam, RMSPROP
+10. 
