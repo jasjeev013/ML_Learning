@@ -360,4 +360,7 @@
 7. ELU & Softmax Activation Function
 8. Lost Function vs Cost Function - All Loss Functions 
 9. Different Types of Optimizers - Gradient Descent, SGD, Mini Bathc SGD, SGD With Momentum, Adagrad, Adam, RMSPROP
-10. 
+10. Discussion of all Optimizers - Exploding Gradient Problem
+11. Weight Intialization Techniques - Uniform Distribution, Xavier/Glorot Intialization, Kaiming He Intialization
+12. Drop Out Layer
+13. 
