@@ -363,4 +363,7 @@
 10. Discussion of all Optimizers - Exploding Gradient Problem
 11. Weight Intialization Techniques - Uniform Distribution, Xavier/Glorot Intialization, Kaiming He Intialization
 12. Drop Out Layer
-13. 
+13. Convolution Nueral Network - Parts of Brain with its working - Layers in Visual Cortex - Padding
+14. Operation of CNN vs ANN - Convolution Layers - Max,Min & Averaage Pooling - Location Invariance
+15. Flattening  & Fully Connected Layers - CNN Example with RGB
+
