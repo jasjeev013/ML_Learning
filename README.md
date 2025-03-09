@@ -367,3 +367,7 @@
 14. Operation of CNN vs ANN - Convolution Layers - Max,Min & Averaage Pooling - Location Invariance
 15. Flattening  & Fully Connected Layers - CNN Example with RGB
 
+## ------------------ Section 53 ------------------
+
+1. End to End DL Model - ANN - Churn Modelling 
+2. 
