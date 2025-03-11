@@ -370,4 +370,18 @@
 ## ------------------ Section 53 ------------------
 
 1. End to End DL Model - ANN - Churn Modelling 
-2. 
+2. Prediction using ANN - Optimal Hidden Layers - Optimizers & Loss Function
+3. Streamlit deployment 
+
+## ------------------ Section 54 ------------------
+
+1. NLP Understanding with Deep learning
+
+## ------------------ Section 55 ------------------
+
+1. Simple RNN Intuition & Introduction
+2. Forward propogation With Time - RNN vs ANN
+3. Backward Propogation & Losses in RNN
+4. Problems with Simple RNN 
+
+## ------------------ Section 56 ------------------
