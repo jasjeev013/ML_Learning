@@ -385,3 +385,7 @@
 4. Problems with Simple RNN 
 
 ## ------------------ Section 56 ------------------
+
+1. Movie Review System - Overview
+2. Word Embedding - Trying by example
+3. Completed With the Imdb Review Sentiment Analysis- Using SImple RNN & Word Embedding
