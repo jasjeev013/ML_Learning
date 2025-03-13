@@ -389,3 +389,9 @@
 1. Movie Review System - Overview
 2. Word Embedding - Trying by example
 3. Completed With the Imdb Review Sentiment Analysis- Using SImple RNN & Word Embedding
+4. End to End Streamlit Web Application
+
+## ------------------ Section 57 ------------------
+
+1. Disadvantages of Simple RNN - Introduction to LSTM RNN - Working of SHort Term & Long Term Memory
+2. Forget Gate - Input Gate - Candidate Memory - Output Gate
