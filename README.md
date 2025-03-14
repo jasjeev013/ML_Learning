@@ -395,3 +395,4 @@
 
 1. Disadvantages of Simple RNN - Introduction to LSTM RNN - Working of SHort Term & Long Term Memory
 2. Forget Gate - Input Gate - Candidate Memory - Output Gate
+3. Diff. Variants of LSTM RNN - GRU RNN INtroduction & Intuition
