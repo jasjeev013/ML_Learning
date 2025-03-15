@@ -396,3 +396,12 @@
 1. Disadvantages of Simple RNN - Introduction to LSTM RNN - Working of SHort Term & Long Term Memory
 2. Forget Gate - Input Gate - Candidate Memory - Output Gate
 3. Diff. Variants of LSTM RNN - GRU RNN INtroduction & Intuition
+
+## ------------------ Section 58 ------------------
+
+1. End to End Model Building using LSTM & GRU RNN - Word Prediction 
+2. PCleaning & Preprocessing using TOkenizer - Training Model using LSTM , Embedding, Dropout, Dense, Sequential
+3. Fitting the model using epochs - Saving the tokeinzer & model file
+4. Prediction using the stream lit app
+5. Replacing LSTM RNN with the GRU RNN - Checking Performance Metrics
+
