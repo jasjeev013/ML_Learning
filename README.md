@@ -405,3 +405,14 @@
 4. Prediction using the stream lit app
 5. Replacing LSTM RNN with the GRU RNN - Checking Performance Metrics
 
+## ------------------ Section 59 ------------------
+
+1. Bidirectional RNN - Introduction - Explanation
+
+## ------------------ Section 60 ------------------
+
+1. Encoder & Decoders - LSTM MOdels - Explanation - Seq2Seq Architecture
+2. Problems with it 
+
+## ------------------ Section 61 ------------------
+
