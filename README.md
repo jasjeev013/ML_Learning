@@ -416,3 +416,8 @@
 
 ## ------------------ Section 61 ------------------
 
+1. Attention Mechanism - Seq2Seq Network - Intoduction - Working
+
+## ------------------ Section 62 ------------------
+
+1. Transformers - Introduction - Why to use it
