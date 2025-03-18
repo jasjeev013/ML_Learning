@@ -421,3 +421,5 @@
 ## ------------------ Section 62 ------------------
 
 1. Transformers - Introduction - Why to use it
+2. Self Attention Model - Attention Score - Scaled - Softmax - Contextual Vectors
+3. 
