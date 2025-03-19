@@ -422,4 +422,7 @@
 
 1. Transformers - Introduction - Why to use it
 2. Self Attention Model - Attention Score - Scaled - Softmax - Contextual Vectors
-3. 
+3. Feed Forward Neural Network - Multi Head Attention
+4. Positional Encoding - Sinusoidal & Learned Positional Encoding - Layer Normalization - Encoder Transformation
+5. Decoder Transformation - Encoder Decoder Multihead attention  
+6. Decoder Linear - Softmax Layer
